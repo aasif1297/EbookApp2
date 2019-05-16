@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">317469005332-n3rsoj29p4952qdeehmfn5i7armtjifc.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://ebook-27b98.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">317469005332</string>
+    <string name="google_api_key" translatable="false">AIzaSyCXStiY1ECmEmZJtJBL82lhFNQZDftkbMI</string>
+    <string name="google_app_id" translatable="false">1:317469005332:android:328fc8776d798f61</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCXStiY1ECmEmZJtJBL82lhFNQZDftkbMI</string>
+    <string name="google_storage_bucket" translatable="false">ebook-27b98.appspot.com</string>
+    <string name="project_id" translatable="false">ebook-27b98</string>
+</resources>

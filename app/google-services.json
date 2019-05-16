@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "317469005332",
+    "firebase_url": "https://ebook-27b98.firebaseio.com",
+    "project_id": "ebook-27b98",
+    "storage_bucket": "ebook-27b98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317469005332:android:328fc8776d798f61",
+        "android_client_info": {
+          "package_name": "com.koky.ebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317469005332-1sodisooeb05fc0phm7rko3btjach33b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.koky.ebook",
+            "certificate_hash": "d68b320e0cf364adc1d39b1c63cad92057a48365"
+          }
+        },
+        {
+          "client_id": "317469005332-n3rsoj29p4952qdeehmfn5i7armtjifc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXStiY1ECmEmZJtJBL82lhFNQZDftkbMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317469005332-n3rsoj29p4952qdeehmfn5i7armtjifc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
