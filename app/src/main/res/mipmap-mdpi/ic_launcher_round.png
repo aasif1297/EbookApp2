@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="793b9c6e-6860-45a9-96de-0f97c043ed1a" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.dart_tool/" />
+    <ignored path="$PROJECT_DIR$/.idea/" />
+    <ignored path="$PROJECT_DIR$/.pub/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lib/main.dart" />
+        <option value="$PROJECT_DIR$/lib/ui/frienddetails/footer/friend_detail_footer.dart" />
+        <option value="$PROJECT_DIR$/lib/ui/frienddetails/header/friend_detail_header.dart" />
+        <option value="$PROJECT_DIR$/lib/ui/frienddetails/friend_detail_body.dart" />
+        <option value="$PROJECT_DIR$/lib/ui/frienddetails/friend_details_page.dart" />
+        <option value="$PROJECT_DIR$/lib/pages/dashboard_page.dart" />
+        <option value="$PROJECT_DIR$/lib/pages/feedbackmain.dart" />
+        <option value="$PROJECT_DIR$/lib/pages/how_to_play_page.dart" />
+        <option value="$PROJECT_DIR$/lib/pages/instructions_page.dart" />
+        <option value="$PROJECT_DIR$/lib/pages/leaderboard_page.dart" />
+        <option value="$PROJECT_DIR$/lib/pages/login_page.dart" />
+        <option value="$PROJECT_DIR$/lib/pages/navigation.dart" />
+        <option valu
